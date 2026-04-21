@@ -193,3 +193,4 @@ int tree_from_index(ObjectID *id_out) {
     return build_tree_for_prefix(&index, "", id_out);
 }
 // p2 start
+// p2 traversal

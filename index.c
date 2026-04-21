@@ -291,3 +291,5 @@ int index_add(Index *index, const char *path) {
 // p3 init
 // p3 add
 // p3 index
+// p3 status
+// p3 status
